@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     # name="edgesoftware",
-    version="1.0.1",
+    # version="1.0.1",
     description="A CLI wrapper for management of Intel® Edge Software Hub packages.",
     long_description=long_description,
     long_description_content_type="text/markdown",
